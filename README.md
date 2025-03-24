@@ -30,3 +30,10 @@ been experiencing symptoms.
 depression.
 ● Anxiety Diagnosis:  Whether the patient has been diagnosed with anxiety.
 ● Medications:  Medications the patient is currently taking.
+
+# Repository structure
+Data : https://drive.google.com/drive/home
+Dashboard :
+Image :
+
+
