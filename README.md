@@ -32,7 +32,7 @@ depression.
 ● Medications:  Medications the patient is currently taking.
 
 # Repository structure
-Data : https://drive.google.com/drive/home
+Data : https://github.com/sreenandck/OCD-Patients-demographics-dashboard/blob/main/OCDData.csv
 Dashboard :
 Image :
 
