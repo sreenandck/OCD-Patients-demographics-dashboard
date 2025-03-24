@@ -45,7 +45,10 @@ https://github.com/sreenandck/OCD-Patients-demographics-dashboard/blob/main/ocd%
 ## Image 1 :
 ![powerbi page1](https://github.com/user-attachments/assets/2abab1f3-a3f3-4fa5-b246-9d97bdcbcff4)
 ## Image 2 :
-![powerbi page2](https://github.com/user-attachments/assets/96300bc6-f851-47d5-aed6-e524ee2f99ac)<br/ >
+![powerbi page2](https://github.com/user-attachments/assets/96300bc6-f851-47d5-aed6-e524ee2f99ac)
+
+# Feedback and collaborations
+Your feedback is welcome. If you'd like to collaborate on similar projects ,feel free to reach out.
 
 
 
