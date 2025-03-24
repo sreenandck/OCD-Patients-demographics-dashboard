@@ -38,10 +38,10 @@ depression.
 ● Medications:  Medications the patient is currently taking.
 
 # Repository structure
-Data : https://github.com/sreenandck/OCD-Patients-demographics-dashboard/blob/main/OCD%20Patient%20Dataset_%20Demographics%20%26%20Clinical%20Data.csv
-Dashboard :https://github.com/sreenandck/OCD-Patients-demographics-dashboard/blob/main/ocd%20patients.pbix
-Image 1 :![powerbi page1](https://github.com/user-attachments/assets/2abab1f3-a3f3-4fa5-b246-9d97bdcbcff4)
-Image 2 :![powerbi page2](https://github.com/user-attachments/assets/96300bc6-f851-47d5-aed6-e524ee2f99ac)
+Data : https://github.com/sreenandck/OCD-Patients-demographics-dashboard/blob/main/OCD%20Patient%20Dataset_%20Demographics%20%26%20Clinical%20Data.csv<br/ >
+Dashboard :https://github.com/sreenandck/OCD-Patients-demographics-dashboard/blob/main/ocd%20patients.pbix<br/ >
+Image 1 :![powerbi page1](https://github.com/user-attachments/assets/2abab1f3-a3f3-4fa5-b246-9d97bdcbcff4)<br/ >
+Image 2 :![powerbi page2](https://github.com/user-attachments/assets/96300bc6-f851-47d5-aed6-e524ee2f99ac)<br/ >
 
 
 
