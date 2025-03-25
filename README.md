@@ -2,7 +2,26 @@
 The "OCD Patient Dataset: Demographics &amp; Clinical Data" comprises information on 1,500 individuals diagnosed with Obsessive-Compulsive Disorder (OCD) .  So in this power bi project we aim to analyze and derive insights from the OCD patients clinical data to understand the patients details and their treatment duration and speculations.
 Through interactive dashboards and visualization we will provide a detailed overview of demographic details such as age, gender, ethnicity, marital status, and education, alongside clinical data like OCD diagnosis date, symptom duration, and previous psychiatric conditions.
 
-# Key objectives of this project are:
+# Key features
+## 1.Data Integration:
+Connected the dataset with Power BI Desktop, ensuring seamless integration for efficient analysis.
+
+## 2.Data Analysis:
+Analyzed tables and established meaningful relationships to uncover insights and correlations within the dataset.
+
+## 3.Data Cleaning: 
+Conducted thorough data cleaning using Power Query Editor, ensuring data accuracy and consistency.
+
+## 4.Data Modeling:
+Utilized DAX (Data Analysis Expressions) to create calculated columns and measures for enhanced analysis.
+
+## 5.Interactive Visualizations:
+Developed an interactive BI dashboard/report that brings data to life, enabling users to explore and discover insights.
+
+## 6.Key Metrics:
+Created visualizations for key metrics.
+
+# Objectives of this project are:
 ## Characterize Symptoms:
 Differentiate obsessions and compulsions, and identify common patterns.
 ## Analyze Severity:
