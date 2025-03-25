@@ -43,7 +43,9 @@ https://github.com/sreenandck/OCD-Patients-demographics-dashboard/blob/main/OCD%
 ## Dashboard :
 https://github.com/sreenandck/OCD-Patients-demographics-dashboard/blob/main/ocd%20patients.pbix
 ## Image 1 :
+![Page 1](https://github.com/user-attachments/assets/06253217-26e7-41ce-ae80-54af42a5ab5e)
 ## Image 2 :
+![Page 2](https://github.com/user-attachments/assets/13a2c590-e4fa-4448-81cc-e86ed740134e)
 
 # Feedback and collaborations
 Your feedback is welcome. If you'd like to collaborate on similar projects ,feel free to reach out.
